@@ -1,6 +1,6 @@
 # The EY Data Challenge 2021 by Margaret Hughes Amissah-Mensah, Jiyeon Park, and Lee Park
 ### **Organization: The Dr.Bing Zhang Department of Statatics @ the University of Kentucky**
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leeparkuky/EY_Data_Challenge_21.git/HEAD)
 
 ## **1. Introduction**
 In May 2021, Maggie, Jiyeon, and I created a team to participate the EY Data Challenge and went over the tutorials provided by the host.   
