@@ -1,5 +1,5 @@
 # The EY Data Challenge 2021 by Margaret Hughes Amissah-Mensah, Jiyeon Park, and Lee Park
-### **Organization: The Dr.Bing Zhand Department of Statatics @ the University of Kentucky**
+### **Organization: The Dr.Bing Zhang Department of Statatics @ the University of Kentucky**
 
 
 ## **1. Introduction**
