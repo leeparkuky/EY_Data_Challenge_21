@@ -1,0 +1,67 @@
+,smoke_polynames
+0,1
+1,nbart_blue
+2,nbart_green
+3,nbart_red
+4,nbart_nir
+5,nbart_swir_2
+6,nbart_swir_1
+7,NDVI
+8,MNDWI
+9,distance
+10,distance_mask
+11,nbart_blue^2
+12,nbart_blue nbart_green
+13,nbart_blue nbart_red
+14,nbart_blue nbart_nir
+15,nbart_blue nbart_swir_2
+16,nbart_blue nbart_swir_1
+17,nbart_blue NDVI
+18,nbart_blue MNDWI
+19,nbart_blue distance
+20,nbart_blue distance_mask
+21,nbart_green^2
+22,nbart_green nbart_red
+23,nbart_green nbart_nir
+24,nbart_green nbart_swir_2
+25,nbart_green nbart_swir_1
+26,nbart_green NDVI
+27,nbart_green MNDWI
+28,nbart_green distance
+29,nbart_green distance_mask
+30,nbart_red^2
+31,nbart_red nbart_nir
+32,nbart_red nbart_swir_2
+33,nbart_red nbart_swir_1
+34,nbart_red NDVI
+35,nbart_red MNDWI
+36,nbart_red distance
+37,nbart_red distance_mask
+38,nbart_nir^2
+39,nbart_nir nbart_swir_2
+40,nbart_nir nbart_swir_1
+41,nbart_nir NDVI
+42,nbart_nir MNDWI
+43,nbart_nir distance
+44,nbart_nir distance_mask
+45,nbart_swir_2^2
+46,nbart_swir_2 nbart_swir_1
+47,nbart_swir_2 NDVI
+48,nbart_swir_2 MNDWI
+49,nbart_swir_2 distance
+50,nbart_swir_2 distance_mask
+51,nbart_swir_1^2
+52,nbart_swir_1 NDVI
+53,nbart_swir_1 MNDWI
+54,nbart_swir_1 distance
+55,nbart_swir_1 distance_mask
+56,NDVI^2
+57,NDVI MNDWI
+58,NDVI distance
+59,NDVI distance_mask
+60,MNDWI^2
+61,MNDWI distance
+62,MNDWI distance_mask
+63,distance^2
+64,distance distance_mask
+65,distance_mask^2
