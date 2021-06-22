@@ -23,3 +23,7 @@ Since some of the ipynb and python scripts rely on the Azure and Docker environm
 Instead, please download the repo and run it on the same Azure or Docker environemtn provided by the host.   
 The instruction for that is provided below
 [EY_Data_Science](https://github.com/EY-Data-Science-Program/2021-Better-Working-World-Data-Challenge/wiki)
+
+
+## **4. Submission Documents and Presentation**
+The document and presentation video can be found under the **`Document`** and **`Presentation`** folders.
